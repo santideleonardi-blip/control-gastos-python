@@ -1,6 +1,6 @@
 # 💰 Sistema de Control de Gastos Personales
 
-Aplicación interactiva ejecutada a través de la terminal, diseñada para registrar ingresos y gastos de forma organizada. Este proyecto fue desarrollado de forma independiente durante mi formación en la **Tecnicatura Superior en Desarrollo de Software (ISPC)**.
+Aplicación interactiva ejecutada a través de la terminal, diseñada para registrar ingresos y gastos de forma organizada.
 
 ## 🚀 Características Clave
 - **Persistencia de Datos:** Los registros no se pierden al cerrar el programa; se almacenan automáticamente en un archivo local `datos_gastos.json`.
